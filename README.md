@@ -6,3 +6,4 @@
 ## 📸 Screenshot
 
 ![Demo Screenshot](demo.png)
+![Demo Screenshot](detail.png)
