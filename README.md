@@ -5,4 +5,4 @@
 
 ## 📸 Screenshot
 
-![Demo Screenshot](Screenshot From 2025-12-15 18-05-52.png)
+[Demo Screenshot](Screenshot From 2025-12-15 18-05-52.png)
